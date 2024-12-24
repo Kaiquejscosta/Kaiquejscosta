@@ -1,6 +1,6 @@
 # Olá, eu sou o Kaique! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por Linix, automações e infraestrutura como código e estou sempre ansioso para aprender novas tecnologias e melhorar minhas habilidades.
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por Linux, automações e infraestrutura como código e estou sempre ansioso para aprender novas tecnologias e melhorar minhas habilidades.
 
 ## 🚀 Sobre Mim
 
