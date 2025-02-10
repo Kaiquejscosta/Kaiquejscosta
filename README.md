@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por Linux, automações, infra
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente estou aprendendo Rede de Computadores, Ansible, Prometheus, Grafana, Shell Script, Python entre outras ferramentas.
+- 🌱 Atualmente estou aprendendo Rede de Computadores, Ansible, Prometheus, Grafana, Shell Script, Firewall, Servidores Linux entre outras tecnologias.
 - 👯 Estou procurando colaborar em criar scripts em shell para coletas de metricas no formato promQL e desenvolvendo playbooks no ansible para automação.
 - 💬 Pergunte-me sobre: Linux, Ansible e Rede de Computadoes
 - 📫 Como me encontrar: kaiqueliv123@gmail.com
